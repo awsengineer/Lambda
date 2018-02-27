@@ -1,0 +1,10 @@
+<smil><head/><body><switch>
+<video src="19525_692_480x270_364000" system-bitrate="364000" width="480" height="270" >
+<param name="audioBitrate" value="64000" valuetype="data"/>
+<param name="videoBitrate" value="300000" valuetype="data"/>
+</video>
+<video src="19525_692_416x234_244000" system-bitrate="244000" width="416" height="234" >
+<param name="audioBitrate" value="64000" valuetype="data"/>
+<param name="videoBitrate" value="180000" valuetype="data"/>
+</video>
+</switch></body></smil>
